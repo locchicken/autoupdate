@@ -1,0 +1,11 @@
+D:\C#\Update Data\Update Data\bin\Debug\Update Data.exe.config
+D:\C#\Update Data\Update Data\bin\Debug\Update Data.exe
+D:\C#\Update Data\Update Data\bin\Debug\Update Data.pdb
+D:\C#\Update Data\Update Data\obj\Debug\Update Data.csprojAssemblyReference.cache
+D:\C#\Update Data\Update Data\obj\Debug\Update_Data.Form1.resources
+D:\C#\Update Data\Update Data\obj\Debug\Update_Data.Properties.Resources.resources
+D:\C#\Update Data\Update Data\obj\Debug\Update Data.csproj.GenerateResource.cache
+D:\C#\Update Data\Update Data\obj\Debug\Update Data.csproj.CoreCompileInputs.cache
+D:\C#\Update Data\Update Data\obj\Debug\Update Data.exe
+D:\C#\Update Data\Update Data\obj\Debug\Update Data.pdb
+D:\C#\Update Data\Update Data\obj\Debug\Update Data.csproj.AssemblyReference.cache
